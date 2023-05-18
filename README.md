@@ -80,4 +80,4 @@ More data from people older than 65
 Heart attack count per person (how many total heart attacks an individual has had if they’ve had more than 1)
 Better conclusions could be made if we looked at more data that focused on genetics 
 
-
+**Images found in our files will save to comuter downloaded and ran*
